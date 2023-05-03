@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesmentTest/LightStoneAssesmentTest.csproj": {}
+  },
+  "projects": {
+    "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/LightStoneAssesment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/LightStoneAssesment.csproj",
+        "projectName": "LightStoneAssesment",
+        "projectPath": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/LightStoneAssesment.csproj",
+        "packagesPath": "/Users/Tanaka/.nuget/packages/",
+        "outputPath": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Tanaka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesmentTest/LightStoneAssesmentTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesmentTest/LightStoneAssesmentTest.csproj",
+        "projectName": "LightStoneAssesmentTest",
+        "projectPath": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesmentTest/LightStoneAssesmentTest.csproj",
+        "packagesPath": "/Users/Tanaka/.nuget/packages/",
+        "outputPath": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesmentTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Tanaka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/LightStoneAssesment.csproj": {
+                "projectPath": "/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/LightStoneAssesment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

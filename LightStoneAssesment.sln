@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightStoneAssesment", "LightStoneAssesment\LightStoneAssesment.csproj", "{42F040D1-C3E3-4142-9A3C-6BF911B4742F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightStoneAssesmentTest", "LightStoneAssesmentTest\LightStoneAssesmentTest.csproj", "{4C1438EA-7C2D-4246-80F3-4B3FC06F7877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F040D1-C3E3-4142-9A3C-6BF911B4742F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F040D1-C3E3-4142-9A3C-6BF911B4742F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F040D1-C3E3-4142-9A3C-6BF911B4742F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F040D1-C3E3-4142-9A3C-6BF911B4742F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1438EA-7C2D-4246-80F3-4B3FC06F7877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1438EA-7C2D-4246-80F3-4B3FC06F7877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1438EA-7C2D-4246-80F3-4B3FC06F7877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1438EA-7C2D-4246-80F3-4B3FC06F7877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FF2AF8-0807-44FB-83EA-02FD44D25BEF}
+	EndGlobalSection
+EndGlobal

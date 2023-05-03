@@ -1,0 +1,15 @@
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/bin/Debug/net7.0/LightStoneAssesment
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/bin/Debug/net7.0/LightStoneAssesment.deps.json
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/bin/Debug/net7.0/LightStoneAssesment.runtimeconfig.json
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/bin/Debug/net7.0/LightStoneAssesment.dll
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/bin/Debug/net7.0/LightStoneAssesment.pdb
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.csproj.AssemblyReference.cache
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.AssemblyInfoInputs.cache
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.AssemblyInfo.cs
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.csproj.CoreCompileInputs.cache
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.dll
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/refint/LightStoneAssesment.dll
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.pdb
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/LightStoneAssesment.genruntimeconfig.cache
+/Users/Tanaka/Projects/LightStoneAssesment/LightStoneAssesment/obj/Debug/net7.0/ref/LightStoneAssesment.dll
